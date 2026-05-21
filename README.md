@@ -98,6 +98,8 @@ To set up this project on your local machine, follow these steps:
 If you have any questions or feedback, please reach out to:
 
 - [Krishna Gavali on GitHub](https://github.com/KrishnaGavali)
+- [Sarthak Londhe on Github](https://github.com/sarthaklondhe)
+- [Amongh Pawar on Github](https://github.com/amoghpawar)
 - [Krishna Gavali on LinkedIn](https://www.linkedin.com/in/krishna-gavali-76a11a273/)
 - Krishna Gavali on Gmail: **k1810g2005@gmail.com**
 
